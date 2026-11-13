@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="128" viewBox="0 0 420 128" role="img" aria-labelledby="title desc">
+  <title id="title">Smart JUTC</title>
+  <desc id="desc">A green and gold bus symbol beside the Smart JUTC name.</desc>
+  <rect x="2" y="2" width="124" height="124" rx="28" fill="#0c5534"/>
+  <path d="M25 43c0-8 6-14 14-14h51c8 0 14 6 14 14v42H25V43Z" fill="#f5fbf7"/>
+  <path d="M31 44c0-4 3-7 7-7h53c4 0 7 3 7 7v17H31V44Z" fill="#e9bd3f"/>
+  <path d="M31 68h67v11H31z" fill="#157a4b"/>
+  <circle cx="43" cy="88" r="8" fill="#17251f"/>
+  <circle cx="86" cy="88" r="8" fill="#17251f"/>
+  <circle cx="43" cy="88" r="3" fill="#f5fbf7"/>
+  <circle cx="86" cy="88" r="3" fill="#f5fbf7"/>
+  <path d="M24 101h80" stroke="#e9bd3f" stroke-width="5" stroke-linecap="round"/>
+  <text x="151" y="66" fill="#0c5534" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="2">JUTC</text>
+  <text x="153" y="94" fill="#59685f" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SMART TRANSIT</text>
+</svg>
